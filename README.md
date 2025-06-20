@@ -1,73 +1,108 @@
-<h1 align="center">Hi 👋, I'm Ritika</h1>
-<h3 align="center">Full Stack Developer | Passionate Problem Solver | Tech Enthusiast</h3>
-
+<!-- Header Illustration -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritika91158&label=Profile%20views&color=0e75b6&style=flat" alt="ritika91158" />
+  <img src="https://i.pinimg.com/originals/f1/e7/06/f1e7066436c2a5d5f8b4f2f0bf14a3c3.gif" width="60%" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Ritika</h1>
+<h3 align="center">Full-Stack Web Developer | Creative Coder | Lifelong Learner</h3>
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ritika91158&theme=onedark&title=MultiLanguage,Commits,Repositories,Stars" alt="GitHub Trophy" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F76190&center=true&vCenter=true&width=435&lines=Building+web+apps+with+❤️;Full+Stack+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Let's+connect+and+collaborate!" />
 </p>
 
 ---
 
-### 💡 About Me
+### 🚀 About Me
 
-- 🎓 Computer Science enthusiast with a strong foundation in web technologies and data structures.
-- 🌱 Currently exploring the **MERN Stack** – MongoDB, Express, React, and Node.js.
-- 💻 Experienced with developing responsive web applications and user interfaces using **HTML, CSS, JavaScript**, and modern frameworks.
-- 🧠 Passionate about learning, building, and solving real-world problems through code.
-- 📬 Reach me at: **ritikatoore@gmail.com**
+- 🌱 Currently learning **MongoDB, Express, Node.js**
+- 💻 Skilled in **JavaScript, React, HTML/CSS, Vue.js**
+- ⚡ Passionate about building real-world projects and solving DSA problems
+- 🤝 Open to collaboration on frontend or MERN stack projects
+- 📬 Reach me at **ritikatoore@gmail.com**
+
+---
+
+### 💼 My Skill Set
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,java,cpp,python,php" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vue" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & DB</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ritika91158&theme=radical&margin-w=10&row=2&column=3" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritika91158&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika91158&layout=compact&theme=tokyonight" width="40%" />
+</p>
 
 ---
 
 ### 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/ritika-" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-ritika-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://instagram.com/hey___ritika" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-@hey___ritika-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://leetcode.com/ritika_toora28" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-ritika_toora28-yellow?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/ritikahhgy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GeeksForGeeks-ritikahhgy-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🧠 Certificates & Badges
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-API%20Fundamentals-orange?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/GitHub-Contributor-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Hackathon-Participant-green?style=for-the-badge&logo=hackthebox" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### ✨ Fun Fact
+
+> I love turning ideas into interactive interfaces and learning through building!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritika91158&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika91158&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
