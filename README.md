@@ -1,86 +1,82 @@
-<!-- 🔥 Top Banner -->
+<!-- 🎥 Animated Video-Like Background -->
 <p align="center">
-  <img src="https://i.imgur.com/5b5I6vR.gif" width="100%" alt="ritika-banner" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="animated-banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ritika</h1>
-<h3 align="center">🚀 Full Stack Web Developer | Tech Enthusiast | DSA Explorer</h3>
+<h1 align="center">Hi 👋 I'm Ritika, a Full Stack Developer</h1>
+<h3 align="center">🚀 Crafting modern web apps with clean UI and solid backend logic</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FACC&center=true&vCenter=true&width=435&lines=Building+modern+web+apps+with+❤️;MERN+Stack+Developer+%F0%9F%9A%80;Open+Source+%7C+Frontend+%7C+Backend;Let's+connect+and+build+great+things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FACC&center=true&vCenter=true&width=500&lines=Frontend+%2B+Backend+%3D+Full+Stack;React+%2C+Node+%2C+MongoDB+%2C+Express;Open+to+collaborate+on+cool+projects!;Coffee+%2B+Code+%3D+Perfect+Combo" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Computer Science undergrad with a passion for full stack web development
-- 🌱 Currently learning **MongoDB, Express.js, and Node.js**
-- 💬 Skilled in **React, JavaScript, HTML/CSS, Vue.js**
-- 🤝 Love building open source and real-world projects
-- 📧 Reach me at: **ritikatoore@gmail.com**
+- 🎓 Passionate Full Stack Developer from India
+- 🌱 Currently learning: **Node.js**, **MongoDB**
+- 💬 Ask me about: **HTML, CSS, JavaScript, React, Vue**
+- 🛠️ I love building real-world projects & solving DSA on LeetCode
+- 📫 Email me at: **ritikatoore@gmail.com**
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ritika-" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://instagram.com/hey___ritika" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-  <a href="https://leetcode.com/ritika_toora28" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/ritikahhgy/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/768px-GeeksforGeeks.svg.png" height="40" />
-  </a>
+  <a href="https://linkedin.com/in/ritika-" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://instagram.com/hey___ritika" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="https://leetcode.com/ritika_toora28" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/></a>
+  <a href="https://www.geeksforgeeks.org/user/ritikahhgy/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40"/></a>
 </p>
 
 ---
 
-### 🛠️ My Tech Toolbox
+### 🚀 My Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,express,mongodb,java,cpp,python,php,bootstrap,tailwind,git,github,vscode,docker,graphql" />
-</p>
+| Languages | Frontend | Backend & DB | Tools |
+|----------|----------|--------------|-------|
+| ![](https://skillicons.dev/icons?i=js,java,cpp,python,php) | ![](https://skillicons.dev/icons?i=html,css,react,vue,tailwind,bootstrap) | ![](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql) | ![](https://skillicons.dev/icons?i=git,github,vscode,postman,docker) |
 
 ---
 
 ### 🏆 Achievements & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritika91158&theme=tokyonight&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ritika91158&theme=algolia&row=1&column=6&no-frame=true" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritika91158&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika91158&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ritika91158&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritika91158&theme=tokyonight" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika91158&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 🎓 Certifications
+### 🧾 Certificates
 
 <p align="center">
   <img src="https://img.shields.io/badge/Postman-API%20Fundamentals-orange?style=for-the-badge&logo=postman" />
-  <img src="https://img.shields.io/badge/Hackathon-Participant-green?style=for-the-badge&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/DSA-Practice-yellow?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/DSA-LeetCode-yellow?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Hackathon-Participant-green?style=for-the-badge" />
 </p>
 
 ---
 
-### 💡 Fun Fact
+### 🎵 Fun Fact
 
-> I turn coffee ☕ into code 💻 and bugs 🐞 into features 🚀
+> I design user interfaces in the browser while vibing to lofi playlists ☕🎧
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
