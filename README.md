@@ -28,8 +28,7 @@ I'm a creative tech enthusiast who loves building responsive web apps and solvin
 ## 📈 GitHub Stats:
 ![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikatoora&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikatoora&layout=compact&theme=tokyonight)](https://github.com/ritikatoora)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikatoora&layout=compact&theme=tokyonight)
 ---
 
 ## 📬 Connect With Me:
