@@ -8,20 +8,31 @@ I'm a tech enthusiast who loves building interactive web apps and solving coding
 
 ## 🚀 Tech Stack & Tools
 
-<table>
+## 💻 My Skill Set
+
+<div align="center" style="padding: 20px; background-color: #111827; border-radius: 10px;">
+
+<table style="border-collapse: collapse;">
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML5</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS3</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/><br>Tailwind</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>VS Code</td>
+    <td valign="top" width="33%" align="center">
+      <h3>🚀 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,html,css" height="40"/>
+    </td>
+    
+    <td valign="top" width="33%" align="center">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,redux,nextjs" height="40"/>
+    </td>
+    
+    <td valign="top" width="33%" align="center">
+      <h3>🗄️ Backend & DB</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,graphql" height="40"/>
+    </td>
   </tr>
 </table>
+
+</div>
+
 
 ---
 
@@ -41,20 +52,24 @@ I'm a tech enthusiast who loves building interactive web apps and solving coding
 
 ---
 
+
 ## 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:ritikatoore@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Ritika91158">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.icons8.com/material-outlined/48/ffffff/github.png" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/ritikatoora">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-orange?style=for-the-badge&logo=internetexplorer&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/000000/internet.png" height="40"/>
   </a>
 </p>
 
