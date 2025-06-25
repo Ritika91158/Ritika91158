@@ -10,28 +10,23 @@ I'm a tech enthusiast who loves building interactive web apps and solving coding
 
 ## 💻 My Skill Set
 
-<div align="center" style="padding: 20px; background-color: #111827; border-radius: 10px;">
-
-<table style="border-collapse: collapse;">
+<table>
   <tr>
-    <td valign="top" width="33%" align="center">
-      <h3>🚀 Languages</h3>
+    <td align="center" width="33%">
+      <h3>💫 Languages</h3>
       <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,html,css" height="40"/>
     </td>
-    
-    <td valign="top" width="33%" align="center">
+    <td align="center" width="33%">
       <h3>🎨 Frontend</h3>
       <img src="https://skillicons.dev/icons?i=react,tailwind,redux,nextjs" height="40"/>
     </td>
-    
-    <td valign="top" width="33%" align="center">
+    <td align="center" width="33%">
       <h3>🗄️ Backend & DB</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,graphql" height="40"/>
     </td>
   </tr>
 </table>
 
-</div>
 
 
 ---
