@@ -1,90 +1,42 @@
-<!-- 🎥 Simulated Video Background with GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</p>
+# 👋 Hey there, I'm Ritika Toora!
 
-<h1 align="center">Hi 👋 I'm Ritika</h1>
-<h3 align="center">💻 Full Stack Web Developer | MERN Enthusiast | Code with Creativity ✨</h3>
+🎯 Passionate Frontend Developer | Java Programmer | DSA Explorer
+
+I'm a creative tech enthusiast who loves building responsive web apps and solving complex coding problems. Currently learning advanced backend development to become a Full Stack Developer.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+I'm+Ritika;Full+Stack+Developer;Crafting+Web+Experiences+With+Style+%26+Logic" />
-</p>
+## 🚀 Tech Stack & Tools:
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
 
-### 🧠 About Me
-
-- 🔭 I'm currently working on Full Stack projects using **MongoDB, Express, React, Node.js**
-- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `React`, `Vue`, `Java`, `DSA`
-- 📫 Reach me at: **ritikatoore@gmail.com**
-- 🎯 Goal: Build meaningful projects and contribute to Open Source
+## 💼 Currently Working On:
+- Learning **Spring Boot** for backend development
+- Practicing **DSA daily** on [LeetCode](https://leetcode.com/)
+- Building new **React projects** and hosting them
 
 ---
 
-### 🌐 Connect with Me
+## 📈 GitHub Stats:
+![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritikatoora&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <a href="https://linkedin.com/in/ritika-" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://instagram.com/hey___ritika" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-  <a href="https://leetcode.com/ritika_toora28" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/ritikahhgy/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40"/>
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikatoora&layout=compact&theme=tokyonight)](https://github.com/ritikatoora)
 
 ---
 
-### 💻 Tech Stack
-
-| Languages | Frontend | Backend & DB | Tools |
-|----------|----------|--------------|-------|
-| ![](https://skillicons.dev/icons?i=js,java,cpp,python,php) | ![](https://skillicons.dev/icons?i=html,css,react,vue,tailwind,bootstrap) | ![](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql) | ![](https://skillicons.dev/icons?i=git,github,vscode,postman,docker) |
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritika91158&theme=algolia&row=1&column=6&no-frame=true" />
-</p>
+## 📬 Connect With Me:
+- 📧 Email: [ritikatoore@gmail.com](mailto:ritikatoore@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/ritikatoora](https://linkedin.com/in/ritikatoora)
+- 🌐 Portfolio: [Coming Soon!]
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritika91158&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritika91158&theme=tokyonight" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika91158&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### 📜 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Postman-API%20Fundamentals-orange?style=for-the-badge&logo=postman" />
-  <img src="https://img.shields.io/badge/DSA-LeetCode-yellow?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Hackathon-Participant-green?style=for-the-badge" />
-</p>
-
----
-
-### 🎵 Fun Fact
-
-> I debug faster with chai ☕ and lo-fi beats 🎧 in the background.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+_“Consistency beats talent when talent doesn't work consistently.”_ 🚀  
