@@ -14,18 +14,24 @@ I'm a tech enthusiast who loves building interactive web apps and solving coding
   <tr>
     <td align="center" width="33%">
       <h3>💫 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,html,css" height="40"/>
+      <br>
+      <img src="https://skillicons.dev/icons?i=java,c,cpp,python" height="45" />
     </td>
+    
     <td align="center" width="33%">
       <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,redux,nextjs" height="40"/>
+      <br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" height="45" />
     </td>
+    
     <td align="center" width="33%">
       <h3>🗄️ Backend & DB</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,graphql" height="40"/>
+      <br>
+      <img src="https://skillicons.dev/icons?i=mysql,php" height="45" />
     </td>
   </tr>
 </table>
+
 
 
 
