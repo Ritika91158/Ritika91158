@@ -8,30 +8,25 @@ I'm a tech enthusiast who loves building interactive web apps and solving coding
 
 ## 🚀 Tech Stack & Tools
 
-## 💻 My Skill Set
+<!-- My Skill Set Section -->
+<h2>💻 My Skill Set</h2>
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>💫 Languages</h3>
-      <br>
+      <strong>💫 Languages</strong><br><br>
       <img src="https://skillicons.dev/icons?i=java,c,cpp,python" height="45" />
     </td>
-    
     <td align="center" width="33%">
-      <h3>🎨 Frontend</h3>
-      <br>
+      <strong>🎨 Frontend</strong><br><br>
       <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" height="45" />
     </td>
-    
     <td align="center" width="33%">
-      <h3>🗄️ Backend & DB</h3>
-      <br>
+      <strong>🗄️ Backend & DB</strong><br><br>
       <img src="https://skillicons.dev/icons?i=mysql,php" height="45" />
     </td>
   </tr>
 </table>
-
 
 
 
