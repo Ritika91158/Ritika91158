@@ -1,43 +1,50 @@
-# 👋 Hey there, I'm Ritika Toora!
+# 👋 Hey there, I'm Ritika!
 
-🎯 Passionate Frontend Developer | Java Programmer | DSA Explorer
+🎯 **Frontend Developer | Java Programmer | DSA Explorer**
 
-I'm a creative tech enthusiast who loves building responsive web apps and solving complex coding problems. Currently learning advanced backend development to become a Full Stack Developer.
+I'm a tech enthusiast who loves building interactive web apps and solving coding problems. Currently upskilling in backend to become a **Full Stack Developer**.
 
 ---
 
-## 🚀 Tech Stack & Tools:
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+## 🚀 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
 ## 💼 Currently Working On:
-- Learning **Spring Boot** for backend development
-- Practicing **DSA daily** on [LeetCode](https://leetcode.com/)
-- Building new **React projects** and hosting them
+- 🔥 Learning **Spring Boot** for backend development  
+- 🧠 Practicing **DSA daily** on [LeetCode](https://leetcode.com/)  
+- ⚛️ Building & Hosting new **React Projects**
 
 ---
 
-## 📈 GitHub Stats:
+## 📈 GitHub Stats
 
-![Ritika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritika91158&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika91158&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritika91158&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika91158&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
 ## 📬 Connect With Me:
-- 📧 Email: [ritikatoore@gmail.com](mailto:ritikatoore@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ritikatoora](https://linkedin.com/in/ritikatoora)
-- 🌐 Portfolio: [Coming Soon!]
+
+<p>
+  <a href="mailto:ritikatoore@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Ritika91158"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ritikatoora"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
-_“Consistency beats talent when talent doesn't work consistently.”_ 🚀  
+> _“Consistency beats talent when talent doesn't work consistently.”_ 🚀
